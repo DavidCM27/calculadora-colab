@@ -1,4 +1,11 @@
-# Calculadora Colaborativa en Python
+# Calculadora basica en Python
+ 
+## 🚀 Tecnologías y herramientas usadas
+ 
+- **Python 3.10** – Lenguaje de programación principal
+- **Git y GitHub** – Control de versiones, ramas, commits y colaboración
+- **Visual Studio Code** – IDE de desarrollo
+- **pytest** – Pruebas unitarias
 
 ## Funcionalidad
 
@@ -11,10 +18,11 @@ Calculadora con operaciones básicas:
 
 ## Integrantes del equipo
 
-- Juan David Cerón Martínez (Owner del repositorio)
-- Hector Castañón Ruiz (Colaborador vía fork y Pull Request)
+- Juan Escutia (Product owner)
+- Juan David Cerón Martínez (Scrum Master)
+- Hector Castañón Ruiz (Developer)
 
-## Objetivo de la práctica
+## Proyecto
 
-Crear un repositprio de GitHub para practicar la colaboracion del repositorio usando Fork y Pull Requests para agragr funciones al codigo ultilizado.
+Siguiendo una metodologia agil Scrum desarrollamos este micro proyecto sobre una calculadora con funciones basicas (Sumar, restar, multiplicar, dividir)
 
