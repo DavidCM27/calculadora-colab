@@ -1,6 +1,6 @@
 # Calculadora basica en Python
  
-## 🚀 Tecnologías y herramientas usadas
+## Tecnologías y herramientas usadas
  
 - **Python 3.10** – Lenguaje de programación principal
 - **Git y GitHub** – Control de versiones, ramas, commits y colaboración
